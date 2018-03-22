@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateLayer&k=1:
+  /?Action=UpdateLayer:
     get:
       summary: ' Update Layer '
       description: Updates a specified layer
