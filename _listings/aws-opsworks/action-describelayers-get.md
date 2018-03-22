@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeLayers&k=1:
+  /?Action=DescribeLayers:
     get:
       summary: ' Describe Layers '
       description: Requests a description of one or more layers in a specified stack
