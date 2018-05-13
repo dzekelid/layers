@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS OpsWorks API
+  title: AWS OpsWorks API Describe Layers
   version: 1.0.0
+  description: Requests a description of one or more layers in a specified stack.
 schemes:
 - http
 produces:
